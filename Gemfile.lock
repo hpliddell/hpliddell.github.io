@@ -98,7 +98,7 @@ GEM
     jekyll-imagemagick (1.4.0)
       jekyll (>= 3.4)
     jekyll-jupyter-notebook (0.0.6)
-      jekyll (>= 3.4)
+      jekyll
     jekyll-link-attributes (1.0.1)
     jekyll-minifier (0.1.10)
       cssminify2 (~> 2.0)
