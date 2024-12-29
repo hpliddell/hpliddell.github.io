@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Our research group applies interdisciplinary engineering approaches to address multiscale research challenges in <strong> manufacturing sustainability </strong> and <strong> mechanics of multilayered systems</strong>.   
+Based at Purdue University, our research group applies interdisciplinary engineering approaches to address multiscale research challenges in <strong> manufacturing sustainability </strong> and <strong> mechanics of multilayered systems</strong>.   
 
 More content coming soon!
