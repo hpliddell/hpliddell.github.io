@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <strong>Purdue University</strong> <a href='https://engineering.purdue.edu/ME'>Mechanical Engineering</a> and <a href='https://engineering.purdue.edu/EEE'>Environmental & Ecological Engineering</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic_2.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><strong>Heather Liddell</strong></p>
+    <p>Assistant Professor <br> Purdue University </p>
+    <p>West Lafayette, Indiana, USA</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
