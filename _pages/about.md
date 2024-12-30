@@ -15,9 +15,17 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
-Based at Purdue University, our research group applies interdisciplinary engineering approaches to address multiscale research challenges in <strong> manufacturing sustainability </strong> and <strong> mechanics of multilayered systems</strong>.   
+<br>
+Our research group applies interdisciplinary engineering approaches to address multiscale research challenges in <strong> manufacturing sustainability </strong> and <strong> mechanics of multilayered systems</strong>. Our group includes members from the departments of Mechanical Engineering and Environmental & Ecological Engineering.   
 
-More content coming soon!
+Some of our current research interests include:
+<li> industrial decarbonization strategies </li>
+<li> environmental life cycle assessment for early-stage manufacturing technologies </li>
+<li> sustainable supply chains and circularity </li>
+<li> fracture mechanics in multilayer systems </li>
+<li> adhesion of paints and coatings </li>
+<br>
+For more details, take a look at our Publications, Projects, and People pages.
