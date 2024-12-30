@@ -274,8 +274,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Liddell]
-  first_name: [Heather P.H.]
+  last_name: ["Liddell", "Howard"]
+  first_name: ["Heather P.H.", "Heather P. H.", "Heather P.", "H. P.", "H.P.", "H.P.H", "H. P. H.", "Heather"]
 
   style: apa
   locale: en
@@ -334,7 +334,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 10 # leave blank to always show all authors
+max_author_limit: 8 # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
