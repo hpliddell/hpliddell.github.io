@@ -417,7 +417,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-congratulations-to-group-members-catherine-mejia-and-beth-kelley-for-winning-first-and-second-prize-in-the-student-poster-competition-at-the-american-center-for-life-cycle-assessment-aclca-annual-conference-in-snowbird-utah-excellent-work",
+    },{id: "news-congratulations-to-group-members-catherine-mejia-and-beth-kelley-for-winning-first-and-second-prize-in-the-student-poster-competition-at-the-2024-american-center-for-life-cycle-assessment-aclca-annual-conference-in-snowbird-utah-what-a-great-showing-for-our-group-excellent-work",
           title: 'Congratulations to group members Catherine Mejia and Beth Kelley for winning first and...',
           description: "",
           section: "News",},{id: "news-we-are-currently-seeking-an-undergraduate-research-fellow-for-summer-2024-apply-through-the-purdue-surf-application-portal-by-january-15-2024",
