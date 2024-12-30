@@ -29,4 +29,4 @@ Some of our current research interests include:
 <li> fracture mechanics in multilayer systems </li>
 <li> adhesion of paints and coatings </li>
 <br>
-For more details, take a look at our Publications, Projects, and People pages.
+For more details, take a look at our Publications.
