@@ -19,12 +19,13 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <br>
-Our research group applies interdisciplinary engineering approaches to address multiscale research challenges in <strong> manufacturing sustainability </strong> and <strong> mechanics of multilayered systems</strong>. Our group includes members from the departments of Mechanical Engineering and Environmental & Ecological Engineering.   
+Based at Purdue, the Liddell research group applies interdisciplinary engineering approaches to address multiscale research challenges in <strong> manufacturing sustainability </strong> and <strong> mechanics of multilayered systems</strong>. Our group includes members from the departments of Mechanical Engineering and Environmental & Ecological Engineering.   
 
 Some of our current research interests include:
 <li> industrial decarbonization strategies </li>
 <li> environmental life cycle assessment for early-stage manufacturing technologies </li>
 <li> sustainable supply chains and circularity </li>
+<li> energy and environmental consequences of the electric vehicle transition </li>
 <li> fracture mechanics in multilayer systems </li>
 <li> adhesion of paints and coatings </li>
 <br>
