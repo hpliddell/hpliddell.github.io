@@ -18,5 +18,5 @@ nav_order: 2
 
 </div>
 
-<br>Full publications list via <a href="https://scholar.google.com/citations?user=JmlZjPgAAAAJ"> Google Scholar</a>.
+<br>A full publications list is available via <a href="https://scholar.google.com/citations?user=JmlZjPgAAAAJ"> Google Scholar</a>.
 <br><a href="https://scholar.google.com/citations?user=JmlZjPgAAAAJ"> <i class="ai ai-google-scholar-square ai-3x"></i> </a>
