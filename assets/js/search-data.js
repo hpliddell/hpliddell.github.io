@@ -417,16 +417,11 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-congratulations-to-group-members-catherine-mejia-and-beth-kelley-for-winning-first-and-second-prize-in-the-student-poster-competition-at-the-american-center-for-life-cycle-assessment-aclca-annual-conference-in-snowbird-utah-excellent-work",
+          title: 'Congratulations to group members Catherine Mejia and Beth Kelley for winning first and...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-we-are-currently-seeking-an-undergraduate-research-fellow-for-summer-2024-apply-through-the-purdue-surf-application-portal-by-january-15-2024",
+          title: 'We are currently seeking an undergraduate research fellow for Summer 2024! Apply through...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
