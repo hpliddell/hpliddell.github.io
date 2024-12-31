@@ -6,7 +6,7 @@ subtitle: Purdue University <a href='https://engineering.purdue.edu/ME'>Mechanic
 
 profile:
   align: right
-  image: prof_pic_2.jpg
+  image: heather_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><strong>Heather P.H. Liddell</strong></p>
