@@ -18,10 +18,17 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Last update: Dec 2024.",
+          description: "Last CV update: Dec 2024",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-people",
+          title: "people",
+          description: "Members of the Liddell Research Group",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
           },
         },{id: "post-a-post-with-image-galleries",
       
@@ -381,7 +388,52 @@ ninja.data = [{
           section: "News",},{id: "news-we-are-currently-seeking-an-undergraduate-research-fellow-for-summer-2024-apply-through-the-purdue-surf-application-portal-by-january-15-2024",
           title: 'We are currently seeking an undergraduate research fellow for Summer 2024! Apply through...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "people-tripta-bhattacharjee",
+          title: 'Tripta Bhattacharjee',
+          description: "Ph.D. Student, Environmental &amp; Ecological Engineering",
+          section: "People",handler: () => {
+              window.location.href = "/people/bhattacharjee/";
+            },},{id: "people-olivia-helmuth",
+          title: 'Olivia Helmuth',
+          description: "B.S. Student, Environmental &amp; Ecological Engineering",
+          section: "People",handler: () => {
+              window.location.href = "/people/helmuth/";
+            },},{id: "people-beth-kelley",
+          title: 'Beth Kelley',
+          description: "M.S. Student, Environmental &amp; Ecological Engineering",
+          section: "People",handler: () => {
+              window.location.href = "/people/kelley/";
+            },},{id: "people-heather-liddell",
+          title: 'Heather Liddell',
+          description: "Assistant Professor and PI of the Liddell research group",
+          section: "People",handler: () => {
+              window.location.href = "/people/liddell/";
+            },},{id: "people-catherinne-mejia",
+          title: 'Catherinne Mejia',
+          description: "M.S. Student, Environmental &amp; Ecological Engineering",
+          section: "People",handler: () => {
+              window.location.href = "/people/mejia/";
+            },},{id: "people-andrew-morrissey",
+          title: 'Andrew Morrissey',
+          description: "B.S./M.S. Combined Degree Student, Mechanical Engineering",
+          section: "People",handler: () => {
+              window.location.href = "/people/morrissey/";
+            },},{id: "people-sanatkumar-rajagopalan",
+          title: 'Sanatkumar Rajagopalan',
+          description: "M.S. Student, Mechanical Engineering",
+          section: "People",handler: () => {
+              window.location.href = "/people/rajagopalan/";
+            },},{id: "people-zubair-wahed",
+          title: 'Zubair Wahed',
+          description: "Ph.D. Student, Mechanical Engineering",
+          section: "People",handler: () => {
+              window.location.href = "/people/wahed/";
+            },},{id: "people-heyichen-xu",
+          title: 'Heyichen Xu',
+          description: "Ph.D. Student, Environmental &amp; Ecological Engineering",
+          section: "People",handler: () => {
+              window.location.href = "/people/xu/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
