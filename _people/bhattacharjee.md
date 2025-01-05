@@ -9,7 +9,7 @@ related_publications: false
 
 profiles:
   - align: right
-    image: tripta_pic_sq2.jpg
+    image: tripta_pic.jpg
     content: about_bhattacharjee.md
     image_circular: false # crops the image to make it circular
     more_info: >
