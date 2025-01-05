@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-Prof. Liddell currently teaches the following lecture-based courses at Purdue University:
+Prof. Liddell teaches the following lecture-based courses at Purdue University:
 <ul>
 	<li><strong>ME 463 Engineering Design</strong>: Fall 2023, Fall 2024</li>
 	<li><strong>EEE 595 Carbon Accounting & Sustainability</strong>: Spring 2025</li>
@@ -41,7 +41,7 @@ This guided experience brings closure to the undergraduate ME curriculum by inte
 </div>
 <div class="caption">
     <strong>LEFT:</strong> A Fall 2024 senior design team collaborates to brainstorm design options in a functional decomposition exercise. 
-	<strong>RIGHT:</strong> A student from the same team presents their final project at the Fall 2024 Malott Innovation Awards.
+	<strong>RIGHT:</strong> An ME 463 student presents his team's final project at the Fall 2024 Malott Innovation Awards.
 </div>
 <br>
 
