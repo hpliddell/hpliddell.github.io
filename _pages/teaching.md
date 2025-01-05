@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-Prof. Liddell teaches the following lecture-based courses at Purdue University:
+Prof. Liddell teaches the following courses at Purdue University:
 <ul>
 	<li><strong>ME 463 Engineering Design</strong>: Fall 2023, Fall 2024</li>
 	<li><strong>EEE 595 Carbon Accounting & Sustainability</strong>: Spring 2025</li>
