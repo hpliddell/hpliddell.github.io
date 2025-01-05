@@ -15,7 +15,7 @@ horizontal: false
   <!-- Display categorized people -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
-    <br> <!-- add vertical space between categories -->
+    <!-- <br> add vertical space between categories -->
 	<h2 class="category">{{ category }}</h2>
   </a> 
   {% assign categorized_people = site.people | where: "category", category %}
