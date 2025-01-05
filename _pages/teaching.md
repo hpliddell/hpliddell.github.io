@@ -9,10 +9,10 @@ nav_order: 6
 
 Prof. Liddell currently teaches the following lecture-based courses at Purdue University:
 <ul>
-	<li><strong>ME 463 (Engineering Design)</strong>, last offered Fall 2024</li>
-	<li><strong>EEE 595 (Carbon Accounting & Sustainability)</strong> last offered Spring 2025</li>
-	<li><strong>EEE 560 (Environmental & Ecological Engineering In-Context)</strong> (topics rotate), last offered Spring 2024 </li>
-	<li><strong>Project-Based Courses</strong>, offered every semester by prior arrangement; see below </li>
+	<li><strong>ME 463 Engineering Design</strong>: Fall 2023, Fall 2024</li>
+	<li><strong>EEE 595 Carbon Accounting & Sustainability</strong>: Spring 2025</li>
+	<li><strong>EEE 560 Environmental & Ecological Engineering In-Context</strong> (topics rotate): Spring 2024 </li>
+	<li><strong>Project-Based Courses</strong>: offered every semester by prior arrangement; see below </li>
 </ul>
 
 More details on Prof. Liddell's courses can be found below. 
@@ -68,10 +68,9 @@ The course is divided into three approximately equal units, each about five week
 
 <h4><strong>Project-Based Courses </strong></h4>
 
-<em>Project-based courses at Purdue provide structured, credit-bearing opportunities for faculty-mentored independent study and research at the undergraduate and graduate level. </em>
-
-Prof. Liddell offers independent studies and research projects for credit in both ME and EEE. Current Purdue undergraduate students can refer to the undergraduate research webpages for [ME](https://engineering.purdue.edu/ME/Undergraduate/ResearchOpportunities) and [EEE](https://engineering.purdue.edu/EEE/Academics/CurrentStudents/UndergraduateResearchEEE) for more details.
-Undergraduate students can take independent studies for credit under course numbers ME 297, ME 498, ME 499, and EEE 498; and graduate students (pursuing non-thesis projects) can take ME 597 and EEE 598.
+<em>Project-based courses at Purdue provide structured opportunities for faculty-mentored independent study and research at the undergraduate and graduate level. 
+Prof. Liddell offers independent studies and research projects for credit in both ME and EEE. Current Purdue undergraduate students can refer to the undergraduate research webpages for ME and EEE (see links below) for more details.
+Undergraduate students can take independent studies for credit under course numbers ME 297, ME 498, ME 499, and EEE 498; and graduate students (pursuing non-thesis projects) can take ME 597 and EEE 598. </em>
 
 <strong>LINK:</strong> [Undergraduate Research in Mechanical Engineering (ME) (Webpage)](https://engineering.purdue.edu/ME/Undergraduate/ResearchOpportunities)
 <br>
@@ -81,7 +80,7 @@ Undergraduate students can take independent studies for credit under course numb
 
 <h4><strong>Short Courses and Workshops </strong></h4>
 
-<em>Prof. Liddell teaches short courses and workshops on a range of topics both at Purdue and externally.</em>
+<em>Outside of her core teaching, Prof. Liddell also teaches short courses and workshops on a range of topics both at Purdue and externally. Examples include co-teaching a 1-week summer course during Purdue's Summer College for High School Students program, and offering a tutorial on Carbon Accounting at the American Center of Life Cycle Assessment's LCA Institute.</em>
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
