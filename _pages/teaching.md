@@ -80,7 +80,7 @@ Undergraduate students can take independent studies for credit under course numb
 
 <h4><strong>Short Courses and Workshops </strong></h4>
 
-<em>Outside of her core teaching, Prof. Liddell also teaches short courses and workshops on a range of topics both at Purdue and externally. Examples include co-teaching a 1-week summer course during Purdue's Summer College for High School Students program, and offering a tutorial on Carbon Accounting at the American Center of Life Cycle Assessment's LCA Institute.</em>
+<em>Outside of her core teaching, Prof. Liddell also teaches short courses and workshops on a range of topics at Purdue and externally. </em>
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
