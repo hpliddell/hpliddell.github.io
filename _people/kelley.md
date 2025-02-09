@@ -1,7 +1,7 @@
 ---
 layout: profiles
 title: Beth Kelley
-description: M.S. Student, Environmental & Ecological Engineering
+description: Graduate Researcher and M.S. Student, Environmental & Ecological Engineering
 img: assets/img/beth_pic_sq.jpg
 importance: 2
 category: current lab members
@@ -14,7 +14,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Beth Kelley</p>
-      <p>M.S. Student, Environmental & Ecological Engineering</p>
+      <p>Graduate Researcher and M.S. Student, Environmental & Ecological Engineering</p>
       <p>Purdue University</p>
 
 ---

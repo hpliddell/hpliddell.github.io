@@ -1,19 +1,19 @@
 ---
 layout: profiles
-title: Sanatkumar Rajagopalan
+title: Savani Prabhune
 description: Graduate Researcher and M.S. Student, Mechanical Engineering
-img: assets/img/sanat_pic.png
+img: assets/img/savani_pic_sq.jpg
 importance: 2
 category: current lab members
 related_publications: false
 
 profiles:
   - align: right
-    image: sanat_pic_2.jpg
-    content: about_rajagopalan.md
+    image: savani_pic.jpg
+    content: about_prabhune.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Sanatkumar Rajagopalan</p>
+      <p>Savani Prabhune</p>
       <p>Graduate Researcher and M.S. Student, Mechanical Engineering</p>
       <p>Purdue University</p>
 

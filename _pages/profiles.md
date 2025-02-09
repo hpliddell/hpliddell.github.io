@@ -5,7 +5,7 @@ permalink: /people/
 description: Members of the Liddell Research Group
 nav: true
 nav_order: 7
-display_categories: [current lab members, lab alumni]
+display_categories: [current lab members, lab alumni, group pics]
 horizontal: false
 ---
 
@@ -64,3 +64,14 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+<br>
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/grouppic_April2024.jpg" title="Group photo, April 2024" %}
+    </div>
+</div>
+<div class="caption">
+    The Liddell Research Group - April 2024
+</div>
+<br>

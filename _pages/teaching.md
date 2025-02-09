@@ -61,7 +61,7 @@ The course is divided into three approximately equal units, each about five week
 <li>Unit 3. Global sustainability and broader impacts of carbon accounting</li>
 
 <br>
-<strong>LINK:</strong> [Fall 2025 syllabus for EEE 595 (PDF download)](/assets/pdf/liddell_eee595_syllabus_sp25.pdf)
+<strong>LINK:</strong> [Spring 2025 syllabus for EEE 595 (PDF download)](/assets/pdf/liddell_eee595_syllabus_sp25.pdf)
 <br>
 <br>
 <br>
