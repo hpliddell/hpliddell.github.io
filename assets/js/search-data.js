@@ -375,17 +375,17 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "people-tripta-bhattacharjee",
           title: 'Tripta Bhattacharjee',
-          description: "Ph.D. Student, Environmental &amp; Ecological Engineering",
+          description: "Graduate Researcher and Ph.D. Student, Environmental &amp; Ecological Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/bhattacharjee/";
             },},{id: "people-olivia-helmuth",
           title: 'Olivia Helmuth',
-          description: "B.S. Student, Environmental &amp; Ecological Engineering",
+          description: "Undergraduate Researcher and B.S. Student, Environmental &amp; Ecological Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/helmuth/";
             },},{id: "people-beth-kelley",
           title: 'Beth Kelley',
-          description: "M.S. Student, Environmental &amp; Ecological Engineering",
+          description: "Graduate Researcher and M.S. Student, Environmental &amp; Ecological Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/kelley/";
             },},{id: "people-heather-liddell",
@@ -395,27 +395,32 @@ ninja.data = [{
               window.location.href = "/people/liddell/";
             },},{id: "people-catherinne-mejia",
           title: 'Catherinne Mejia',
-          description: "M.S. Student, Environmental &amp; Ecological Engineering",
+          description: "Graduate Researcher and M.S. Student, Environmental &amp; Ecological Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/mejia/";
             },},{id: "people-andrew-morrissey",
           title: 'Andrew Morrissey',
-          description: "B.S./M.S. Combined Degree Student, Mechanical Engineering",
+          description: "Undergraduate Researcher and B.S./M.S. Combined Degree Student, Mechanical Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/morrissey/";
+            },},{id: "people-savani-prabhune",
+          title: 'Savani Prabhune',
+          description: "Graduate Researcher and M.S. Student, Mechanical Engineering",
+          section: "People",handler: () => {
+              window.location.href = "/people/prabhune/";
             },},{id: "people-sanatkumar-rajagopalan",
           title: 'Sanatkumar Rajagopalan',
-          description: "M.S. Student, Mechanical Engineering",
+          description: "Graduate Researcher and M.S. Student, Mechanical Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/rajagopalan/";
             },},{id: "people-zubair-wahed",
           title: 'Zubair Wahed',
-          description: "Ph.D. Student, Mechanical Engineering",
+          description: "Graduate Researcher and Ph.D. Student, Mechanical Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/wahed/";
             },},{id: "people-heyichen-xu",
           title: 'Heyichen Xu',
-          description: "Ph.D. Student, Environmental &amp; Ecological Engineering",
+          description: "Graduate Researcher and Ph.D. Student, Environmental &amp; Ecological Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/xu/";
             },},{id: "projects-project-1",
