@@ -74,4 +74,12 @@ horizontal: false
 <div class="caption">
     The Liddell Research Group - April 2024
 </div>
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/grouppic_May2025.jpg" title="Group photo, May 2025" %}
+    </div>
+</div>
+<div class="caption">
+    The Liddell Research Group - May 2025
+</div>
 <br>
