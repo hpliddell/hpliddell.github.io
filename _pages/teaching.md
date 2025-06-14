@@ -9,9 +9,10 @@ nav_order: 6
 
 Prof. Liddell teaches the following courses at Purdue University:
 <ul>
-	<li><strong>ME 463 Engineering Design</strong>: Fall 2023, Fall 2024</li>
+	<li><strong>ME 463 Engineering Design</strong>: Fall 2023, Fall 2024, Fall 2025</li>
 	<li><strong>EEE 595 Carbon Accounting & Sustainability</strong>: Spring 2025</li>
 	<li><strong>EEE 560 Environmental & Ecological Engineering In-Context</strong> (topics rotate): Spring 2024 </li>
+	<li><strong>EEE 690 Environmental & Ecological Engineering Graduate Seminar</strong> (topics rotate): Fall 2025 </li>
 	<li><strong>Project-Based Courses</strong>: offered every semester by prior arrangement; see below </li>
 </ul>
 
@@ -49,12 +50,12 @@ This guided experience brings closure to the undergraduate ME curriculum by inte
 
 <h4><strong>EEE 595: Carbon Accounting & Sustainability </strong></h4>
 
-<em>Prof. Liddell teaches Carbon Accounting & Sustainability (temporary number: EEE 595), a new course for Spring 2025. This lecture-based course is open to graduate students and upper level undergraduates as an elective.</em>
+<em>Prof. Liddell teaches Carbon Accounting & Sustainability (temporary number: EEE 595), first offered as a new course Spring 2025. This lecture-based course is open to graduate students and upper level undergraduates as an elective.</em>
 
 EEE 595 covers the techniques of corporate carbon accounting, broadly defined as the methods used to estimate the quantities of greenhouse gases (CO2-equivalent) emitted by corporate entities. 
-The emphasis in this course will be on entities that manufacture physical products. 
-Students will learn process-based and input-output techniques for carbon accounting (at the level of the product, facility, corporation, and industry/economy) and will gain practical experience applying these techniques in compliance with The Greenhouse Gas Protocol and other relevant standards. 
-Current topics in carbon accounting will be explored through a series of “journal club” discussions, where we will critically and collaboratively discuss perspectives offered in a selection of high-impact recent journal papers. 
+The emphasis in this course is on entities that manufacture physical products. 
+Students learn process-based and input-output techniques for carbon accounting (at the level of the product, facility, corporation, and industry/economy) and gain practical experience applying these techniques in compliance with The Greenhouse Gas Protocol and other relevant standards. 
+Current topics in carbon accounting are explored through a series of “journal club” discussions, where we critically and collaboratively discuss perspectives offered in a selection of high-impact recent journal papers. 
 The course is divided into three approximately equal units, each about five weeks long, and culminates in an integrative course project emphasizing both practical skills and the bigger picture.
 <li>Unit 1. Direct carbon emissions (Scope 1 & 2)</li>
 <li>Unit 2. Indirect carbon emissions (Scope 3)</li>
