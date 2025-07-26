@@ -379,19 +379,17 @@ ninja.data = [{
           section: "News",},{id: "news-new-papers-we-are-excited-to-share-two-new-papers-from-our-group-both-published-in-june-2025-one-in-resources-conservation-and-recycling-and-one-in-the-journal-of-advanced-manufacturing-and-processing-congratulations-to-the-authors",
           title: 'New papers: we are excited to share two new papers from our group,...',
           description: "",
+          section: "News",},{id: "news-congratulations-to-tripta-bhattacharjee-and-co-authors-on-their-new-paper-in-procedia-cirp-re-investment-rebound-dynamic-in-the-cement-industry-tripta-presented-this-research-at-cirp-lce-in-manchester-uk-in-april-2025-and-his-paper-is-now-available-to-read-open-access-via-elsevier-good-work",
+          title: 'Congratulations to Tripta Bhattacharjee and co-authors on their new paper in Procedia CIRP:...',
+          description: "",
           section: "News",},{id: "people-tripta-bhattacharjee",
           title: 'Tripta Bhattacharjee',
-          description: "Graduate Researcher and Ph.D. Student, Environmental &amp; Ecological Engineering",
+          description: "Ph.D. Student, Environmental &amp; Ecological Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/bhattacharjee/";
-            },},{id: "people-olivia-helmuth",
-          title: 'Olivia Helmuth',
-          description: "Undergraduate Researcher and B.S. Student, Environmental &amp; Ecological Engineering",
-          section: "People",handler: () => {
-              window.location.href = "/people/helmuth/";
             },},{id: "people-beth-kelley",
           title: 'Beth Kelley',
-          description: "Graduate Researcher and M.S. Student, Environmental &amp; Ecological Engineering",
+          description: "M.S. Environmental &amp; Ecological Engineering, 2025",
           section: "People",handler: () => {
               window.location.href = "/people/kelley/";
             },},{id: "people-heather-liddell",
@@ -401,32 +399,32 @@ ninja.data = [{
               window.location.href = "/people/liddell/";
             },},{id: "people-catherinne-mejia",
           title: 'Catherinne Mejia',
-          description: "Graduate Researcher and M.S. Student, Environmental &amp; Ecological Engineering",
+          description: "M.S. Student, Environmental &amp; Ecological Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/mejia/";
             },},{id: "people-andrew-morrissey",
           title: 'Andrew Morrissey',
-          description: "Undergraduate Researcher and B.S./M.S. Combined Degree Student, Mechanical Engineering",
+          description: "B.S./M.S. Combined Degree Student, Mechanical Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/morrissey/";
             },},{id: "people-savani-prabhune",
           title: 'Savani Prabhune',
-          description: "Graduate Researcher and M.S. Student, Mechanical Engineering",
+          description: "M.S. Student, Mechanical Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/prabhune/";
             },},{id: "people-sanatkumar-rajagopalan",
           title: 'Sanatkumar Rajagopalan',
-          description: "Graduate Researcher and M.S. Student, Mechanical Engineering",
+          description: "M.S. Mechanical Engineering, 2025",
           section: "People",handler: () => {
               window.location.href = "/people/rajagopalan/";
             },},{id: "people-zubair-wahed",
           title: 'Zubair Wahed',
-          description: "Graduate Researcher and Ph.D. Student, Mechanical Engineering",
+          description: "Ph.D. Student, Mechanical Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/wahed/";
             },},{id: "people-heyichen-xu",
           title: 'Heyichen Xu',
-          description: "Graduate Researcher and Ph.D. Student, Environmental &amp; Ecological Engineering",
+          description: "Ph.D. Student, Environmental &amp; Ecological Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/xu/";
             },},{id: "projects-project-1",
