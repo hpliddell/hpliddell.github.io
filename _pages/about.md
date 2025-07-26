@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Purdue University <a href='https://engineering.purdue.edu/ME'>Mechanical Engineering</a> and <a href='https://engineering.purdue.edu/EEE'>Environmental & Ecological Engineering</a>
+subtitle: Purdue University <a href='https://engineering.purdue.edu/ME'>Mechanical Engineering</a> and <a href='https://engineering.purdue.edu/SEE'>Sustainability Engineering & Environmental Engineering</a>
 
 profile:
   align: right
@@ -29,4 +29,4 @@ Some of our current research interests include:
 <li> fracture mechanics in multilayer systems </li>
 <li> adhesion of paints and coatings </li>
 <br>
-For more details, take a look at our [People](/people) and [Publications](/publications) pages.
+For more details, take a look at our [People](/people), [Teaching](/teaching), and [Publications](/publications) pages.

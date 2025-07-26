@@ -1,7 +1,7 @@
 ---
 layout: profiles
 title: Andrew Morrissey
-description: Undergraduate Researcher and B.S./M.S. Combined Degree Student, Mechanical Engineering
+description: B.S./M.S. Combined Degree Student, Mechanical Engineering
 img: assets/img/andrew_pic.jpg
 importance: 3
 category: current lab members
@@ -14,7 +14,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Andrew Morrissey</p>
-      <p>Undergraduate Researcher and B.S./M.S. Combined Degree Student, Mechanical Engineering</p>
+      <p>B.S./M.S. Combined Degree Student, Mechanical Engineering</p>
       <p>Purdue University</p>
 
 ---

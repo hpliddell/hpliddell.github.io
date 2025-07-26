@@ -1,9 +1,9 @@
 ---
 layout: profiles
 title: Catherinne Mejia
-description: Graduate Researcher and M.S. Student, Environmental & Ecological Engineering
+description: M.S. Student, Environmental & Ecological Engineering
 img: assets/img/catherinne_pic_sq.jpg
-importance: 2
+importance: 3
 category: current lab members
 related_publications: false
 
@@ -14,7 +14,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Catherinne Mejia</p>
-      <p>Graduate Researcher and M.S. Student, Environmental & Ecological Engineering</p>
+      <p>M.S. Student, Environmental & Ecological Engineering</p>
       <p>Purdue University</p>
 
 ---

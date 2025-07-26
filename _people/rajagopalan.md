@@ -1,10 +1,10 @@
 ---
 layout: profiles
 title: Sanatkumar Rajagopalan
-description: Graduate Researcher and M.S. Student, Mechanical Engineering
+description: M.S. Mechanical Engineering, 2025
 img: assets/img/sanat_pic.png
-importance: 2
-category: current lab members
+importance: 3
+category: lab alumni
 related_publications: false
 
 profiles:
@@ -14,7 +14,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Sanatkumar Rajagopalan</p>
-      <p>Graduate Researcher and M.S. Student, Mechanical Engineering</p>
+      <p>M.S. Mechanical Engineering (2025)</p>
       <p>Purdue University</p>
 
 ---
