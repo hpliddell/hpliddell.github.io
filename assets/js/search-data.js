@@ -379,7 +379,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-papers-we-are-excited-to-share-two-new-papers-from-our-group-both-published-in-june-2025-one-in-resources-conservation-and-recycling-and-one-in-the-journal-of-advanced-manufacturing-and-processing-congratulations-to-the-authors",
           title: 'New papers: we are excited to share two new papers from our group,...',
           description: "",
-          section: "News",},{id: "news-congratulations-to-tripta-bhattacharjee-and-co-authors-on-their-new-paper-in-procedia-cirp-re-investment-rebound-dynamic-in-the-cement-industry-tripta-presented-this-research-at-cirp-lce-in-manchester-uk-in-april-2025-and-his-paper-is-now-available-to-read-open-access-via-elsevier-good-work",
+          section: "News",},{id: "news-congratulations-to-tripta-bhattacharjee-and-co-authors-on-their-new-paper-in-procedia-cirp-re-investment-rebound-dynamic-in-the-cement-industry-tripta-presented-this-research-at-the-cirp-lce-conference-in-manchester-uk-in-april-2025-and-his-paper-is-now-available-to-read-open-access",
           title: 'Congratulations to Tripta Bhattacharjee and co-authors on their new paper in Procedia CIRP:...',
           description: "",
           section: "News",},{id: "people-tripta-bhattacharjee",
