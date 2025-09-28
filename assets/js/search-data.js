@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Last CV update: Dec 2024",
+          description: "Last CV update: September 2025",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -367,20 +367,20 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-congratulations-to-group-members-catherine-mejia-and-beth-kelley-for-winning-first-and-second-prize-in-the-student-poster-competition-at-the-2024-american-center-for-life-cycle-assessment-aclca-annual-conference-in-snowbird-utah-what-a-great-showing-for-our-group-excellent-work",
-          title: 'Congratulations to group members Catherine Mejia and Beth Kelley for winning first and...',
+    },{id: "news-congratulations-to-catherine-mejia-and-beth-kelley-for-winning-first-and-second-prize-respectively-in-the-student-poster-competition-at-the-2024-american-center-for-life-cycle-assessment-aclca-annual-conference-in-snowbird-utah-great-showing-for-our-group",
+          title: 'Congratulations to Catherine Mejia and Beth Kelley for winning first and second prize,...',
           description: "",
-          section: "News",},{id: "news-we-are-currently-seeking-an-undergraduate-research-fellow-for-summer-2025-apply-through-the-purdue-surf-application-portal-by-january-15-2025",
-          title: 'We are currently seeking an undergraduate research fellow for Summer 2025! Apply through...',
-          description: "",
-          section: "News",},{id: "news-congratulations-to-group-member-beth-kelley-for-successfully-defending-her-m-s-thesis-data-foundation-for-a-simultaneously-physically-and-environmentally-extended-economic-input-output-model-framework-well-done",
-          title: 'Congratulations to group member Beth Kelley for successfully defending her M.S. thesis, “Data...',
+          section: "News",},{id: "news-congratulations-to-beth-kelley-for-successfully-defending-her-m-s-thesis-data-foundation-for-a-simultaneously-physically-and-environmentally-extended-economic-input-output-model-framework-well-done",
+          title: 'Congratulations to Beth Kelley for successfully defending her M.S. thesis, “Data foundation for...',
           description: "",
           section: "News",},{id: "news-new-papers-we-are-excited-to-share-two-new-papers-from-our-group-both-published-in-june-2025-one-in-resources-conservation-and-recycling-and-one-in-the-journal-of-advanced-manufacturing-and-processing-congratulations-to-the-authors",
           title: 'New papers: we are excited to share two new papers from our group,...',
           description: "",
-          section: "News",},{id: "news-congratulations-to-tripta-bhattacharjee-and-co-authors-on-their-new-paper-in-procedia-cirp-re-investment-rebound-dynamic-in-the-cement-industry-tripta-presented-this-research-at-the-cirp-lce-conference-in-manchester-uk-in-april-2025-and-his-paper-is-now-available-to-read-open-access",
-          title: 'Congratulations to Tripta Bhattacharjee and co-authors on their new paper in Procedia CIRP:...',
+          section: "News",},{id: "news-congratulations-to-tripta-bhattacharjee-on-his-new-first-author-paper-in-procedia-cirp-re-investment-rebound-dynamic-in-the-cement-industry-tripta-previously-presented-this-research-at-the-cirp-lce-conference-in-manchester-uk-in-april-2025",
+          title: 'Congratulations to Tripta Bhattacharjee on his new first-author paper in Procedia CIRP: Re-investment...',
+          description: "",
+          section: "News",},{id: "news-the-liddell-research-group-recently-returned-from-a-great-trip-to-atlanta-for-the-2025-american-center-for-life-cycle-assessment-aclca-conference-congratulations-to-phd-student-heyichen-xu-who-won-first-place-in-the-student-poster-competition-for-her-research-poster-how-old-is-too-old-quantifying-the-problem-of-temporal-representativeness-in-life-cycle-inventory-lci-data-also-dr-liddell-won-aclca-s-2025-michael-levy-rising-star-award",
+          title: 'The Liddell Research Group recently returned from a great trip to Atlanta for...',
           description: "",
           section: "News",},{id: "people-tripta-bhattacharjee",
           title: 'Tripta Bhattacharjee',
@@ -392,6 +392,16 @@ ninja.data = [{
           description: "M.S. Environmental &amp; Ecological Engineering, 2025",
           section: "People",handler: () => {
               window.location.href = "/people/kelley/";
+            },},{id: "people-gyuna-quot-jenny-quot-kwak",
+          title: 'Gyuna (&amp;quot;Jenny&amp;quot;) Kwak',
+          description: "Ph.D. Student, Environmental &amp; Ecological Engineering",
+          section: "People",handler: () => {
+              window.location.href = "/people/kwak/";
+            },},{id: "people-will-lewis",
+          title: 'Will Lewis',
+          description: "Ph.D. Student, Environmental &amp; Ecological Engineering",
+          section: "People",handler: () => {
+              window.location.href = "/people/lewis/";
             },},{id: "people-heather-liddell",
           title: 'Heather Liddell',
           description: "Assistant Professor and PI of the Liddell research group",
@@ -407,11 +417,6 @@ ninja.data = [{
           description: "B.S./M.S. Combined Degree Student, Mechanical Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/morrissey/";
-            },},{id: "people-savani-prabhune",
-          title: 'Savani Prabhune',
-          description: "M.S. Student, Mechanical Engineering",
-          section: "People",handler: () => {
-              window.location.href = "/people/prabhune/";
             },},{id: "people-sanatkumar-rajagopalan",
           title: 'Sanatkumar Rajagopalan',
           description: "M.S. Mechanical Engineering, 2025",
