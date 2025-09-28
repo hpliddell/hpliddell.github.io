@@ -2,8 +2,7 @@ Tripta Bhattacharjee is a graduate student in Environmental & Ecological Enginee
 
 <strong>Education:</strong>
 <ul>
-	<li>PhD, Environmental & Ecological Engineering, Purdue University, in progress</li>
-	<li>BS, Civil Engineering, Bangladesh University of Engineering and Technology, Bangladesh, 2022</li>
+	<li>B.S., Civil Engineering, Bangladesh University of Engineering and Technology, Bangladesh, 2022</li>
 </ul>
 
 <strong>Selected Publications and Presentations:</strong>

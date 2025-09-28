@@ -2,8 +2,7 @@ Catherinne (“Cathy”) Mejia is from El Salvador and holds a bachelor's degree
 
 <strong>Education:</strong>
 <ul>
-<li>MS, Environmental & Ecological Engineering, Purdue University, in progress</li>
-<li>BS, Environment and Development Engineering, Zamorano University, Honduras, 2022</li>
+<li>B.S., Environment and Development Engineering, Zamorano University, Honduras, 2022</li>
 </ul>
 
 <strong>Selected Publications and Presentations:</strong>

@@ -3,7 +3,7 @@ layout: profiles
 title: Andrew Morrissey
 description: B.S./M.S. Combined Degree Student, Mechanical Engineering
 img: assets/img/andrew_pic.jpg
-importance: 3
+importance: 2
 category: current lab members
 related_publications: false
 

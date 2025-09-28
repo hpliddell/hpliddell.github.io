@@ -9,14 +9,15 @@ nav_order: 6
 
 Prof. Liddell teaches the following courses at Purdue University:
 <ul>
-	<li><strong>ME 463 Engineering Design</strong>: Fall 2023, Fall 2024, Fall 2025</li>
-	<li><strong>EEE 595 Carbon Accounting & Sustainability</strong>: Spring 2025</li>
-	<li><strong>EEE 560 Environmental & Ecological Engineering In-Context</strong> (topics rotate): Spring 2024 </li>
+	<li><strong>ME 463 Engineering Design</strong>: Fall 2023, Fall 2024</li>
+	<li><strong>ME 444 Computer Aided Design & Prototyping </strong>: Fall 2025</li>	
+	<li><strong>EEE 595 Carbon Accounting & Sustainability </strong>: Spring 2025</li>
+	<li><strong>EEE 560 Industrial Carbon Accounting </strong> (as a 1-credit module): Spring 2024 </li>
 	<li><strong>EEE 690 Environmental & Ecological Engineering Graduate Seminar</strong>: Fall 2025 </li>
 	<li><strong>Project-Based Courses</strong>: offered every semester by prior arrangement; see below </li>
 </ul>
 
-More details on Prof. Liddell's courses can be found below. 
+More details on some of Prof. Liddell's courses can be found below. 
 <br>
 <br>
 

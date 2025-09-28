@@ -85,14 +85,28 @@
   ],
   "awards": [
     {
+      "title": "2025 ACLCA Michel Levy Rising Star Award",
+      "date": "2025",
+      "awarder": "American Center for Life Cycle Assessment (ACLCA)",
+      "url": "https://www.aclca.org/awards",
+	  "summary": "The Michael Levy Rising Star award recognizes an emerging leader in LCA and life cycle thinking who reflects ongoing and exceptional growth in contribution to the profession."
+    },
+	{
+      "title": "NSF Young Investigator Travel Grants (2024 and 2025)",
+      "date": "2025",
+      "awarder": "National Science Foundation / REMADE Institute",
+      "url": "https://remadeinstitute.org/2025-conference/",
+	  "summary": "Recipient of an NSF Young Investigator Travel Grant to attend the REMADE Circular Economy Tech Summit & Conference in both 2024 and 2025."
+    },    
+	{
       "title": "DOE EnergyTech University Prize 2024 Faculty Explorer Award",
       "date": "2024",
       "awarder": "U.S. Dept. of Energy",
       "url": "https://www.energy.gov/technologytransitions/energytech-university-prize-2024-competition",
-	  "summary": "The EnergyTech University Prize Faculty Explorer Award recognizes faculty for novel, impactful proposals to develop and implement educational activities to engage more students in energy technology commercialization and entrepreneurship topics at their institution"
+	  "summary": "The EnergyTech University Prize Faculty Explorer Award recognizes faculty for novel, impactful proposals to develop and implement educational activities to engage more students in energy technology commercialization and entrepreneurship topics at their institution."
     },
 		{
-      "title": "Above and Beyond Awards",
+      "title": "Above and Beyond Awards (multiple)",
       "date": "2022",
       "awarder": "Energetics",
       "url": "https://www.clearesult.com/capabilities/energetics",

@@ -3,7 +3,7 @@ layout: profiles
 title: Catherinne Mejia
 description: M.S. Student, Environmental & Ecological Engineering
 img: assets/img/catherinne_pic_sq.jpg
-importance: 3
+importance: 2
 category: current lab members
 related_publications: false
 

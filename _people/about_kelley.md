@@ -7,8 +7,8 @@ Beth Kelley graduated in 2025 with her M.S. in Environmental & Ecological Engine
 
 <strong>Education:</strong>
 <ul>
-<li>MS, Environmental & Ecological Engineering, Purdue University, 2025</li>
-<li>BS, Environmental & Ecological Engineering, Purdue University, 2023</li>
+<li>M.S., Environmental & Ecological Engineering, Purdue University, 2025</li>
+<li>B.S., Environmental & Ecological Engineering, Purdue University, 2023</li>
 </ul>
 
 <strong>Selected Publications and Presentations:</strong>
