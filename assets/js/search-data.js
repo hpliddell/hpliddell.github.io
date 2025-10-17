@@ -414,7 +414,7 @@ ninja.data = [{
               window.location.href = "/people/mejia/";
             },},{id: "people-andrew-morrissey",
           title: 'Andrew Morrissey',
-          description: "B.S./M.S. Combined Degree Student, Mechanical Engineering",
+          description: "M.S. Student, Mechanical Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/morrissey/";
             },},{id: "people-sanatkumar-rajagopalan",
