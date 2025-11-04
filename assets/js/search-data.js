@@ -379,7 +379,7 @@ ninja.data = [{
           section: "News",},{id: "news-congratulations-to-tripta-bhattacharjee-on-his-new-first-author-paper-in-procedia-cirp-re-investment-rebound-dynamic-in-the-cement-industry-tripta-previously-presented-this-research-at-the-cirp-lce-conference-in-manchester-uk-in-april-2025",
           title: 'Congratulations to Tripta Bhattacharjee on his new first-author paper in Procedia CIRP: Re-investment...',
           description: "",
-          section: "News",},{id: "news-the-liddell-research-group-recently-returned-from-a-great-trip-to-atlanta-for-the-2025-american-center-for-life-cycle-assessment-aclca-conference-congratulations-to-phd-student-heyichen-xu-who-won-first-place-in-the-student-poster-competition-for-her-research-poster-how-old-is-too-old-quantifying-the-problem-of-temporal-representativeness-in-life-cycle-inventory-lci-data-also-dr-liddell-won-aclca-s-2025-michael-levy-rising-star-award",
+          section: "News",},{id: "news-the-liddell-research-group-recently-returned-from-a-great-trip-to-atlanta-for-the-2025-american-center-for-life-cycle-assessment-aclca-conference-congratulations-to-phd-student-heyichen-xu-who-won-first-place-in-the-student-poster-competition-for-her-research-poster-how-old-is-too-old-quantifying-the-problem-of-temporal-representativeness-in-life-cycle-inventory-lci-data-dr-liddell-won-aclca-s-2025-michael-levy-rising-star-award",
           title: 'The Liddell Research Group recently returned from a great trip to Atlanta for...',
           description: "",
           section: "News",},{id: "people-tripta-bhattacharjee",
