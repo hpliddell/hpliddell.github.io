@@ -18,15 +18,44 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<br>
+### about us
 Based at Purdue, the Liddell research group applies interdisciplinary engineering approaches to address multiscale research challenges in <strong> manufacturing sustainability </strong> and <strong> mechanics of multilayered systems</strong>. Our group includes members from the departments of Mechanical Engineering and Environmental & Ecological Engineering.   
 
 Some of our current research interests include:
-<li> industrial decarbonization strategies </li>
-<li> environmental life cycle assessment for early-stage manufacturing technologies </li>
-<li> sustainable supply chains and circularity </li>
-<li> energy and environmental consequences of the electric vehicle transition </li>
-<li> fracture mechanics in multilayer systems </li>
-<li> adhesion of paints and coatings </li>
-<br>
-For more details, take a look at our [People](/people), [Teaching](/teaching), and [Publications](/publications) pages.
+<ul>
+	<li> industrial decarbonization technologies and strategies </li>
+	<li> energy modeling for U.S. production systems </li>
+	<li> environmentally extended input-output modeling </li>
+	<li> life cycle assessment for early-stage manufacturing technologies </li>
+	<li> sustainable supply chains and circularity </li>
+	<li> energy and environmental consequences of the electric vehicle transition </li>
+	<li> fracture mechanics in multilayer systems </li>
+	<li> adhesion of paints and coatings </li>
+</ul>
+
+For more details on our work, take a look at the recent Purdue media and news about our group below, and check out our [People](/people), [Teaching](/teaching), and [Publications](/publications) pages. 
+
+### recent purdue media featuring our group
+<ul>
+  <li>
+    <a href="https://engineering.purdue.edu/SEE/AboutUs/News/2025/2025-1021-heather-liddell-receives-aclca-michael-levy-rising-star-award" target="_blank" rel="noopener">
+      October 22, 2025: Heather Liddell Receives the 2025 ACLCA Michael Levy Rising Star Award
+    </a>
+  </li>
+  <li>
+    <a href="https://engineering.purdue.edu/SEE/AboutUs/News/2025/heyichen-xu-wins-first-place-at-national-sustainability-conference" target="_blank" rel="noopener">
+      October 15, 2025:Heyichen Xu Wins First Place at National Sustainability Conference
+    </a>
+  </li>
+  <li>
+    <a href="https://engineering.purdue.edu/SEE/AboutUs/News/2024/ACLCA_Conference_Winners" target="_blank" rel="noopener">
+     October 31, 2024: EEE Graduate Students Come Home with 1st and 2nd place Awards from the American Center for Life Cycle Assessment (ACLCA) Conference
+    </a>
+  </li>
+  <li>
+    <a href="https://engineering.purdue.edu/SEE/AboutUs/News/2024/HeatherLiddell-AgEngGrant" target="_blank" rel="noopener">
+      January 29, 2024: Heather Liddell, EEE's Newest Assistant Professor, Truly Understands the "Persistent Pursuit." (2024)
+    </a>
+  </li>
+</ul>
+
