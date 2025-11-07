@@ -34,6 +34,7 @@ Some of our current research interests include:
 </ul>
 
 For more details on our work, take a look at the recent Purdue media and news about our group below, and check out our [People](/people), [Teaching](/teaching), and [Publications](/publications) pages. 
+<br>
 
 ### recent purdue media featuring our group
 <ul>
@@ -44,17 +45,17 @@ For more details on our work, take a look at the recent Purdue media and news ab
   </li>
   <li>
     <a href="https://engineering.purdue.edu/SEE/AboutUs/News/2025/heyichen-xu-wins-first-place-at-national-sustainability-conference" target="_blank" rel="noopener">
-      October 15, 2025:Heyichen Xu Wins First Place at National Sustainability Conference
+      October 15, 2025: Heyichen Xu Wins First Place at National Sustainability Conference
     </a>
   </li>
   <li>
     <a href="https://engineering.purdue.edu/SEE/AboutUs/News/2024/ACLCA_Conference_Winners" target="_blank" rel="noopener">
-     October 31, 2024: EEE Graduate Students Come Home with 1st and 2nd place Awards from the American Center for Life Cycle Assessment (ACLCA) Conference
+     October 31, 2024: EEE Graduate Students Come Home with 1st and 2nd Place Poster Awards from ACLCA
     </a>
   </li>
   <li>
     <a href="https://engineering.purdue.edu/SEE/AboutUs/News/2024/HeatherLiddell-AgEngGrant" target="_blank" rel="noopener">
-      January 29, 2024: Heather Liddell, EEE's Newest Assistant Professor, Truly Understands the "Persistent Pursuit." (2024)
+      January 29, 2024: Heather Liddell, EEE's Newest Assistant Professor, Truly Understands the "Persistent Pursuit."
     </a>
   </li>
 </ul>
