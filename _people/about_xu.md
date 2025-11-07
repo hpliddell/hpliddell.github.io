@@ -2,8 +2,8 @@ Heyichen Xu is a PhD student in Environmental and Ecological Engineering at Purd
 
 <strong>Education:</strong>
 <ul>
-<li>MS, Environmental Engineering, University of California - Berkeley </li>
-<li>BEng, Environmental Science, Hohai University, Nanjing, China</li>
+<li>MS, Environmental Engineering, University of California - Berkeley, 2024 </li>
+<li>BEng, Environmental Science, Hohai University, Nanjing, China, 2023</li>
 </ul>
 
 <strong>Selected Publications and Presentations:</strong>
