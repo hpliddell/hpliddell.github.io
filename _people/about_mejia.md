@@ -1,9 +1,13 @@
-Catherinne (“Cathy”) Mejia is from El Salvador and holds a bachelor's degree in Environment and Development Engineering from [Zamorano University]( https://zamorano.edu/en/) (Honduras). She is currently an MS student in Environmental and Ecological Engineering (EEE) at Purdue, co-advised by Prof. Liddell and Prof. [Deandrae Smith](https://ag.purdue.edu/directory/smit4870) (Food Science). Her research involves exploring the quality, safety, and environmental impacts of dielectric heating methods for drying and preserving agricultural products. As part of this work, she is conducting a Life Cycle Assessment (LCA) of alfalfa hay drying methods along with nutritional and microbial analysis of the resulting products as dairy forage. Catherinne is interested in interdisciplinary research that aims to reduce environmental impacts and promote sustainability of the production chain, with a focus on agriculture and industry. In her free time, she enjoys baking, hiking, and spending time with friends.
+Catherinne (“Cathy”) Mejia graduated from Purdue with her M.S. in Environmental & Ecological Engineering in December 2025. Cathy is originally from El Salvador, and holds a bachelor's degree in Environment and Development Engineering from [Zamorano University]( https://zamorano.edu/en/) (Honduras). Her graduate research at Purdue, co-advised by Prof. Liddell and Prof. [Deandrae Smith](https://ag.purdue.edu/directory/smit4870) (Food Science), involved exploring the quality, safety, and environmental impacts of dielectric heating methods for drying and preserving agricultural products. As part of this work, she conducted a Life Cycle Assessment (LCA) of alfalfa hay drying methods along with nutritional and microbial analysis of the resulting products as dairy forage. Post-graduation, Cathy is taking her next career step as an environmental engineer at Wessler Engineering. In her free time, she enjoys baking, hiking, and spending time with friends.
 
 <strong>Education:</strong>
 <ul>
-<li>B.S., Environment and Development Engineering, Zamorano University, Honduras, 2022</li>
+<li>MS, Environmental & Ecological Engineering, Purdue University, 2025</li>
+<li>BS, Environment and Development Engineering, Zamorano University, Honduras, 2022</li>
 </ul>
+
+<strong>Link to Cathy’s MS Thesis:</strong>
+Coming Soon
 
 <strong>Selected Publications and Presentations:</strong>
 <ul>

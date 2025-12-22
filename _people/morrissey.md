@@ -3,7 +3,7 @@ layout: profiles
 title: Andrew Morrissey
 description: M.S. Student, Mechanical Engineering
 img: assets/img/andrew_pic.jpg
-importance: 2
+importance: 3
 category: current lab members
 related_publications: false
 
