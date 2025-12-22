@@ -7,7 +7,7 @@ Catherinne (“Cathy”) Mejia graduated from Purdue with her M.S. in Environmen
 </ul>
 
 <strong>Link to Cathy’s MS Thesis:</strong>
-Coming Soon
+[Evaluating Radiofrequency Drying for Alfalfa Dairy Forage Preservation: Feed Quality, Microbial Safety, and Sustainability (2025)]( https://hammer.purdue.edu/authors/Catherinne_Arlette_Mejia_Melara/22813733)
 
 <strong>Selected Publications and Presentations:</strong>
 <ul>
