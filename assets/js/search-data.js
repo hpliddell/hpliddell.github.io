@@ -412,7 +412,7 @@ ninja.data = [{
               window.location.href = "/people/liddell/";
             },},{id: "people-catherinne-mejia",
           title: 'Catherinne Mejia',
-          description: "M.S. Student, Environmental &amp; Ecological Engineering",
+          description: "M.S. Environmental &amp; Ecological Engineering, 2025",
           section: "People",handler: () => {
               window.location.href = "/people/mejia/";
             },},{id: "people-andrew-morrissey",
