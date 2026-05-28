@@ -382,6 +382,9 @@ ninja.data = [{
           section: "News",},{id: "news-the-liddell-research-group-recently-returned-from-a-great-trip-to-atlanta-for-the-2025-american-center-for-life-cycle-assessment-aclca-conference-congratulations-to-phd-student-heyichen-xu-who-won-first-place-in-the-student-poster-competition-for-her-research-poster-how-old-is-too-old-quantifying-the-problem-of-temporal-representativeness-in-life-cycle-inventory-lci-data-dr-liddell-won-aclca-s-2025-michael-levy-rising-star-award",
           title: 'The Liddell Research Group recently returned from a great trip to Atlanta for...',
           description: "",
+          section: "News",},{id: "news-congratulations-andrew-morrissey-for-graduating-with-his-m-s-in-mechanical-engineering-andrew-completed-an-outstanding-thesis-on-automating-lca-and-carbon-accounting-in-a-smart-factory-working-at-the-indiana-manufacturing-competitiveness-center-well-done",
+          title: 'Congratulations Andrew Morrissey for graduating with his M.S. in Mechanical Engineering! Andrew completed...',
+          description: "",
           section: "News",},{id: "news-many-congratulations-to-group-member-catherinne-mejia-melara-who-successfully-defended-her-m-s-thesis-on-friday-november-21-2025-cathy-s-work-a-collaboration-between-purdue-s-sustainability-engineering-and-food-science-departments-explored-the-impact-of-preservation-techniques-on-different-aspects-of-quality-microbial-safety-and-environmental-sustainability-in-dairy-forage-hays-post-graduation-cathy-will-be-starting-an-exciting-new-job-in-industry-at-wessler-engineering",
           title: 'Many congratulations to group member Catherinne Mejia Melara, who successfully defended her M.S....',
           description: "",
@@ -417,7 +420,7 @@ ninja.data = [{
               window.location.href = "/people/mejia/";
             },},{id: "people-andrew-morrissey",
           title: 'Andrew Morrissey',
-          description: "M.S. Student, Mechanical Engineering",
+          description: "M.S. Mechanical Engineering, 2026",
           section: "People",handler: () => {
               window.location.href = "/people/morrissey/";
             },},{id: "people-sanatkumar-rajagopalan",
