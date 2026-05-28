@@ -1,10 +1,10 @@
 ---
 layout: profiles
 title: Andrew Morrissey
-description: M.S. Student, Mechanical Engineering
+description: M.S. Mechanical Engineering, 2026
 img: assets/img/andrew_pic.jpg
 importance: 3
-category: current lab members
+category: lab alumni
 related_publications: false
 
 profiles:
@@ -14,7 +14,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Andrew Morrissey</p>
-      <p>M.S. Student, Mechanical Engineering</p>
+      <p>M.S. Mechanical Engineering (2026)</p>
       <p>Purdue University</p>
 
 ---

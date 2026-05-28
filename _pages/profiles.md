@@ -82,4 +82,16 @@ horizontal: false
 <div class="caption">
     The Liddell Research Group - May 2025
 </div>
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/LabThanksgiving2025.jpg" title="Lab Thanksgiving, November 2025" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Spring2026LabDinner.jpg" title="Lab Dinner, May 2026." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    <strong>LEFT:</strong> Lab Thanksgiving, November 2025  / 
+	<strong>RIGHT:</strong> Lab Dinner, May 2026.
+</div>
 <br>
