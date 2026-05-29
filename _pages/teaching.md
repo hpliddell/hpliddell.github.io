@@ -7,13 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-Prof. Liddell teaches the following courses at Purdue University:
+Prof. Liddell's teaching portfolio includes the following courses at Purdue University:
 <ul>
-	<li><strong>ME 463 Engineering Design</strong>: Fall 2023, Fall 2024</li>
-	<li><strong>ME 444 Computer Aided Design & Prototyping </strong>: Fall 2025</li>	
-	<li><strong>EEE 595 Carbon Accounting & Sustainability </strong>: Spring 2025</li>
-	<li><strong>EEE 560 Industrial Carbon Accounting </strong> (as a 1-credit module): Spring 2024 </li>
-	<li><strong>EEE 690 Environmental & Ecological Engineering Graduate Seminar</strong>: Fall 2025 </li>
+	<li><strong>ME 463 Engineering Design</strong>: Fall 2023, Fall 2024</li> Mean instructor rating: 4.63/5.00 
+	<li><strong>ME 444 Computer Aided Design & Prototyping </strong>: Fall 2025</li> Mean instructor rating: 4.30 /5.00 	
+	<li><strong>EEE 595 Carbon Accounting & Sustainability </strong>: Spring 2025</li> Mean instructor rating: 4.77 / 5.00  
+	<li><strong>EEE 560 Industrial Carbon Accounting </strong> (as a 1-credit module): Spring 2024 </li> Mean instructor rating: 4.69 / 5.00 
+	<li><strong>EEE 690 Environmental & Ecological Engineering Graduate Seminar</strong>: Fall 2025 </li> Mean instructor rating: 4.71 / 5.00
 	<li><strong>Project-Based Courses</strong>: offered every semester by prior arrangement; see below </li>
 </ul>
 

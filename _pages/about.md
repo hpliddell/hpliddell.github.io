@@ -39,6 +39,11 @@ For more details on our work, take a look at the recent Purdue media and news ab
 ### recent purdue media featuring our group
 <ul>
   <li>
+    <a href="https://engineering.purdue.edu/SEE/AboutUs/News/2026/2026-0128-purdue-see-students-alumni-and-faculty-attend-the-2025-aclca-conference" target="_blank" rel="noopener">
+      January 28, 2026: Purdue SEE Students, Alumni, and Faculty Attend the 2025 ACLCA Conference
+    </a>
+  </li>  
+  <li>
     <a href="https://engineering.purdue.edu/SEE/AboutUs/News/2025/2025-1021-heather-liddell-receives-aclca-michael-levy-rising-star-award" target="_blank" rel="noopener">
       October 22, 2025: Heather Liddell Receives the 2025 ACLCA Michael Levy Rising Star Award
     </a>
