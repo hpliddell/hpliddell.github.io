@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: Purdue University <a href='https://engineering.purdue.edu/ME'>Mechanical Engineering</a> and <a href='https://engineering.purdue.edu/SEE'>Sustainability Engineering & Environmental Engineering</a>
+subtitle: >-
+  Purdue University <a href='https://engineering.purdue.edu/ME'>Mechanical Engineering</a> and <a href='https://engineering.purdue.edu/SEE'>Sustainability Engineering & Environmental Engineering</a><br>
+  2026–2027 visiting scholar at the <a href='https://energy.utexas.edu/about'>UT Austin Energy Institute</a> through the <em>Harrington Faculty Fellowship</em>
 
 profile:
   align: right
