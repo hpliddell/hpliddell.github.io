@@ -61,7 +61,7 @@ ninja.data = [{
           section: "News",},{id: "news-dr-liddell-is-thrilled-to-share-that-she-will-be-spending-the-year-at-the-university-of-texas-at-austin-ut-austin-as-part-of-the-2026-2027-harrington-faculty-fellows-cohort-she-is-hosted-at-the-ut-energy-institute",
           title: 'Dr. Liddell is thrilled to share that she will be spending the year...',
           description: "",
-          section: "News",},{id: "news-new-papers-please-check-out-our-group-s-latest-publications-on-the-application-of-lca-to-emerging-technologies-both-of-which-resulted-from-rewarding-multi-institutional-collaborations-controversy-and-consensus-common-ground-and-best-practices-for-life-cycle-assessment-of-emerging-technologies-https-link-springer-com-article-10-1007-s44498-026-00100-5-published-in-the-journal-of-industrial-ecology-and-guiding-early-stage-technology-development-by-modifying-tea-and-lca-workflows-https-www-sciencedirect-com-science-article-pii-s3051294826000769-published-in-chem-circularity-congratulations-to-all-the-authors",
+          section: "News",},{id: "news-new-papers-please-check-out-our-group-s-latest-publications-on-the-application-of-lca-to-emerging-technologies-both-of-which-resulted-from-rewarding-multi-institutional-collaborations-controversy-and-consensus-common-ground-and-best-practices-for-life-cycle-assessment-of-emerging-technologies-published-in-the-journal-of-industrial-ecology-and-guiding-early-stage-technology-development-by-modifying-tea-and-lca-workflows-published-in-chem-circularity-congratulations-to-all-the-authors",
           title: 'New papers! Please check out our group’s latest publications on the application of...',
           description: "",
           section: "News",},{id: "people-tripta-bhattacharjee",
